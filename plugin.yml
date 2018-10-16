@@ -1,0 +1,32 @@
+name: PluginTest
+version: 1.0
+main: MAIN.Main
+description: Factions
+
+commands:
+    listf:
+      usage: /<command>
+    listm:
+      usage: /<command>
+    addf:
+      usage: /<command>
+    joinf:
+      usage: /<command>
+    leavef:
+      usage: /<command>
+    kits:
+      usage: /<command>
+    kit:
+      usage: /<command>
+    godmode:
+      usage: /<command>
+    fly:
+      usage: /<command>
+    vanish:
+      usage: /<command>
+    vstore:
+      usage: /<command>
+    vgive:
+      usage: /<command>
+    vlist:
+      usage: /<command>
